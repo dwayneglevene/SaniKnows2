@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SaniKnows2/static/css/main.ded3c8b4.css",
-    "main.js": "/SaniKnows2/static/js/main.738f2abe.js",
-    "static/js/787.4bf4dd28.chunk.js": "/SaniKnows2/static/js/787.4bf4dd28.chunk.js",
-    "static/media/logo.svg": "/SaniKnows2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/SaniKnows2/index.html",
-    "main.ded3c8b4.css.map": "/SaniKnows2/static/css/main.ded3c8b4.css.map",
-    "main.738f2abe.js.map": "/SaniKnows2/static/js/main.738f2abe.js.map",
-    "787.4bf4dd28.chunk.js.map": "/SaniKnows2/static/js/787.4bf4dd28.chunk.js.map"
+    "main.css": "/SaniKnows2/loginPage/static/css/main.ded3c8b4.css",
+    "main.js": "/SaniKnows2/loginPage/static/js/main.3960f937.js",
+    "static/js/787.4bf4dd28.chunk.js": "/SaniKnows2/loginPage/static/js/787.4bf4dd28.chunk.js",
+    "static/media/logo.svg": "/SaniKnows2/loginPage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SaniKnows2/loginPage/index.html",
+    "main.ded3c8b4.css.map": "/SaniKnows2/loginPage/static/css/main.ded3c8b4.css.map",
+    "main.3960f937.js.map": "/SaniKnows2/loginPage/static/js/main.3960f937.js.map",
+    "787.4bf4dd28.chunk.js.map": "/SaniKnows2/loginPage/static/js/787.4bf4dd28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ded3c8b4.css",
-    "static/js/main.738f2abe.js"
+    "static/js/main.3960f937.js"
   ]
 }
