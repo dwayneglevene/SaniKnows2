@@ -8,7 +8,7 @@ import JoinPage from './pages/Join/joinPage';
 function App() {
   return (
     // <HashRouter>
-  <Router>
+  <HashRouter>
   <Routes>
     <Route exact path='/' element={<Home/>}/>
     <Route exact path='/loginPage' element={<LoginPage/>}/>
@@ -17,7 +17,7 @@ function App() {
   
   </Routes>
   
-  </Router>
+  </HashRouter>
   // {/* </HashRouter> */}
   );
 }
