@@ -1,6 +1,8 @@
 import JoinComponent from "../../components/joinComponent"
 
 function JoinPage(){
+
+   
     return(
         <div>
                      <h1>Join</h1>
